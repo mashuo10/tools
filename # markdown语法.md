@@ -14,7 +14,13 @@
 
 ###### 六级标题
 
+**runoob.com**
 
+_runoob.com_
+***
+*runoob.com*
+___
+~~google.com~~
 
 ## 引用
 
@@ -22,7 +28,8 @@
 
 > https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=1db826af20ac643dce96190fd8c9f0e3 bilibili net
 
-
+## 一个有用的markdown网站
+这个是链接[runoob.com](https://www.runoob.com/markdown/md-link.html)
 
 ## 有序列表：
 
@@ -52,7 +59,7 @@
 
 今天学习任务列表:
 
-- [ ] 今天
+- [x] 今天
 
 - [x] 今天
 
@@ -140,7 +147,7 @@ $\theta=x^2$
 
 
 
-[id]: baidu.com "一个垃圾的搜索引擎"
+[id]: www.baidu.com "一个垃圾的搜索引擎"
 
 
 
