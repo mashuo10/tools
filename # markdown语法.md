@@ -31,6 +31,18 @@ ___
 ## 一个有用的markdown网站
 这个是链接[runoob.com](https://www.runoob.com/markdown/md-link.html)
 
+这个链接用 1 作为网址变量 [Google][1]
+
+这个链接用 runoob 作为网址变量 [Runoob][runoob]
+
+然后在文档的结尾为变量赋值（网址）
+
+  [1]: http://www.google.com/
+  [runoob]: http://www.runoob.com/
+
+
+
+
 ## 有序列表：
 
 把大象关进冰箱需要3步：
