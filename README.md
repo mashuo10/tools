@@ -1,8 +1,3 @@
-
-https://www.markdownguide.org/cheat-sheet/
-
-https://www.markdownguide.org/basic-syntax/
-
 # Useful tools
 
 ## github
@@ -26,4 +21,12 @@ https://www.markdownguide.org/basic-syntax/
 2.  gitignore不包含 *.png
  - 远端+(-)png文件，近端+(-)png文件
  - 近端+(-)png文件，远端+(-)png文件
+
+## MARKDOWN
+文本编辑
+
+https://www.markdownguide.org/cheat-sheet/  
+https://www.markdownguide.org/basic-syntax/
+
+注释：ctrl+/
 
