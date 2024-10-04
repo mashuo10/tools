@@ -22,6 +22,8 @@
  - 远端+(-)png文件，近端+(-)png文件
  - 近端+(-)png文件，远端+(-)png文件
 
+官网：https://git-scm.com/docs/gitignore  
+视频：https://www.bilibili.com/video/BV1EG4y1Z7WW/?spm_id_from=333.337.search-card.all.click&vd_source=d63a8fd77aeffc1333381838e3d4f33f
 ## MARKDOWN
 文本编辑
 
@@ -29,4 +31,5 @@ https://www.markdownguide.org/cheat-sheet/
 https://www.markdownguide.org/basic-syntax/
 
 注释：ctrl+/
-
+## VS Code
+-[VS code+matlab](https://www.bilibili.com/video/BV1Qj421Z77h/?spm_id_from=333.337.search-card.all.click&vd_source=d63a8fd77aeffc1333381838e3d4f33f)
