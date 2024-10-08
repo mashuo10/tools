@@ -1,0 +1,39 @@
+# 1	数学基础类
+1.1	线性代数linear algebra
+看Gilbert Strang的视频课，并做笔记：
+https://www.bilibili.com/video/BV16Z4y1U7oU/?spm_id_from=333.337.search-card.all.click&vd_source=d63a8fd77aeffc1333381838e3d4f33f
+掌握矩阵的四个基本空间的求法；奇异值分解法（SVD）;广义逆的概念；特征值与广义特征值
+1.2	数值分析
+https://www.bilibili.com/video/BV1sh41127RZ?p=1
+掌握数值积分方法；掌握解非线性方程组的方法；掌握解常微分方程的方法
+
+2	软件学习
+2.1	Matlab软件
+网上找合适的教程学习，掌握矩阵、向量、结构数据的建立；矩阵分析与处理、数值计算与符号计算、程序设计、绘图等主要内容。
+
+基于matlab的张拉整体分析软件
+https://github.com/Muhao-Chen/Tensegrity_Finite_Element_Method_TsgFEM
+
+2.2	Solidworks
+三维建模
+https://www.bilibili.com/video/BV1iw411Z7HZ/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=d63a8fd77aeffc1333381838e3d4f33f
+2.3	犀牛
+grasshopper
+Grasshopper入门到进阶系列精讲课程_哔哩哔哩_bilibili
+3	结构分析理论
+3.1	有限元：
+ 看清华大学的视频课
+PPT 下载：
+https://zjuteducn-my.sharepoint.com/:u:/g/personal/mashuo_zjut_edu_cn/EbJHypdtFd1EustmJbROP_EBGwB7pmESFtIHNX2GUNRcvQ?e=u7uA2R
+
+4	控制相关
+4.1	自动控制原理
+看卢京潮的视频课
+https://www.bilibili.com/video/BV1ZJ411c757/?spm_id_from=333.999.0.0&vd_source=d63a8fd77aeffc1333381838e3d4f33f
+4.2	现代控制理论
+看ogata的书
+5	论文写作
+5.1	Latex
+可以用overleaf.com在线写论文，方便多人协作。
+入门视频：https://www.bilibili.com/video/BV1cg411V7hW/?spm_id_from=333.337.search-card.all.click&vd_source=d63a8fd77aeffc1333381838e3d4f33f
+
