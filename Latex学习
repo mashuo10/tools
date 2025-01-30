@@ -1,0 +1,45 @@
+# Latex 学习
+## 视频
+https://www.bilibili.com/video/BV1Mc411S75c?spm_id_from=333.788.player.switch&vd_source=d63a8fd77aeffc1333381838e3d4f33f&p=3
+
+
+
+## 快捷键
+- 注释%：ctr+/
+
+
+## 数学公式
+- 百分号：\ %
+- ＂％＂—在 LaTeX 中，百分号是作为注释符号
+- ＂＆＂—在LaTeX用于表格或数学公式中的位置对齐符号
+- ＂$＂——这个符号被用作数学公式标记符：被框在两个该符号中间的内容将会翻译为数学公式
+- ＂～＂——保留强制空格，非常古老的用法
+- ＂＾＂和＂＿＂—上角和下划线用作上下标标记
+- ＂｛＂和＂}"——左右花括号表示将其中的内容作为一个整体对待
+- ＂＃＂——编写宏包时使用
+
+- 多行公式
+－使用 $\operatorname{begin}\{$ split $\} \ldots$ ．．end $\{$ split \} (需要导入依赖包lusepackage \{amsmath\}, 有的环境可能自带)
+
+### 软件
+- Axmath: word 插件，word 公式和latex公式自动转换
+
+## 正文
+正文各级标题
+- chapter－章，一般只用于可以成书的文章
+- section－节
+- subsection－小节
+- subsubsection－小小节
+- 也就是对应着我们的多级标题
+
+换行，换段，换页，首行缩进等命令
+- \\（\newline，\linebreak，\\［offset］）：换行
+-  par ：分段
+- \newpage：分页命令
+- \setlength $\{$ parindent $\}\left\{\begin{array}{l}\text { 长度 }\} \text { ：首行缩进 }\end{array}\right.$
+
+## 图片
+![alt text](pics\image.png)
+![alt text](image2.png)
+
+## 表格
