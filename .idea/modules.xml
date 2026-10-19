@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/learn_markdown.iml" filepath="$PROJECT_DIR$/.idea/learn_markdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../structural_mechanics/python/.idea/python.iml" filepath="$PROJECT_DIR$/../structural_mechanics/python/.idea/python.iml" />
     </modules>
   </component>
 </project>
